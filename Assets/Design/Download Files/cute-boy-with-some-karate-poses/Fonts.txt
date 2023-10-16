@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Abhaya Libre
+Author: Mooniak
+Url: https://fonts.google.com/specimen/Abhaya+Libre
+
+Font: Parisienne
+Author: Astigmatic
+Url: https://fonts.google.com/specimen/Parisienne
